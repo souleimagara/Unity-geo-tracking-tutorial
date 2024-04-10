@@ -1,0 +1,8 @@
+{
+    "cid": "1658685374408712",
+    "alias": "souleima-gara",
+    "pid": "DE_1721544919445506",
+    "platform": "",
+    "socket": "",
+    "containerPrefix": ""
+}
